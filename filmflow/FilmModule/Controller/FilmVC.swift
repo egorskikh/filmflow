@@ -72,6 +72,11 @@ extension FilmVC: UITableViewDataSource {
         return 140
     }
     
+    func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: IndexPath) {
+  
+        // TODO
+    }
+    
 }
 
 // MARK: - UITableViewDelegate
